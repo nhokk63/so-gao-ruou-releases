@@ -1,7 +1,7 @@
 {
-  "versionCode": 30800,
-  "versionName": "3.8.0",
-  "apkUrl": "https://github.com/nhokk63/so-gao-ruou-releases/releases/download/v3.8.0/So-Gao-Ruou-v3.8.apk",
-  "sha256": "58b3acf9eea000da481bde1af29910948d946419d2ec585f26708e79e4232ba8",
-  "notes": "Chuyển nguồn kiểm tra cập nhật sang GitHub. Mở Cài đặt → Phiên bản & cập nhật để kiểm tra phiên bản."
+  "versionCode": 30801,
+  "versionName": "3.8.1",
+  "apkUrl": "https://github.com/nhokk63/so-gao-ruou-releases/releases/download/v3.8.1/So-Gao-Ruou-v3.8.1.apk",
+  "sha256": "10b789921171fe1f77b7e66be4928f68bbb96d57f599fa6dd44942842c9fe39a",
+  "notes": "Icon cập nhật riêng ở góc phải; tự kiểm tra khi mở app và hiện popup khi có bản mới. Đồng nhất giao diện popup cập nhật và báo cáo với giao diện chính."
 }
