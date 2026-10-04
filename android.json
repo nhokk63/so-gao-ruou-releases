@@ -1,7 +1,7 @@
 {
-  "versionCode": 30802,
-  "versionName": "3.8.2",
-  "apkUrl": "https://github.com/nhokk63/so-gao-ruou-releases/releases/download/v3.8.2/So-Gao-Ruou-v3.8.2.apk",
-  "sha256": "8e6bc9d1eaea0b26c65adf405ef47cc911d01278317f80ba92daef31bee201a7",
-  "notes": "Thông báo cập nhật nhỏ gọn kiểu iOS. Phiếu chốt sổ dạng hóa đơn A4, tự tải chi tiết, có số lượng, đơn giá, thành tiền, tổng đối soát, số dư và xác nhận hai bên."
+  "versionCode": 30803,
+  "versionName": "3.8.3",
+  "apkUrl": "https://github.com/nhokk63/so-gao-ruou-releases/releases/download/v3.8.3/So-Gao-Ruou-v3.8.3.apk",
+  "sha256": "79c3f8a85cb443f953c9236a198302ed96ecba866251455683d57e92218f9d28",
+  "notes": "Dynamic Island cho thông báo và tiến trình; animation mở/đóng cửa sổ, đổi tab, xác nhận thao tác, báo cáo và phiếu. Có chế độ giảm chuyển động."
 }
