@@ -1,7 +1,7 @@
 {
-  "versionCode": 30803,
-  "versionName": "3.8.3",
-  "apkUrl": "https://github.com/nhokk63/so-gao-ruou-releases/releases/download/v3.8.3/So-Gao-Ruou-v3.8.3.apk",
-  "sha256": "79c3f8a85cb443f953c9236a198302ed96ecba866251455683d57e92218f9d28",
-  "notes": "Dynamic Island cho thông báo và tiến trình; animation mở/đóng cửa sổ, đổi tab, xác nhận thao tác, báo cáo và phiếu. Có chế độ giảm chuyển động."
+  "versionCode": 30805,
+  "versionName": "3.8.5",
+  "apkUrl": "https://github.com/nhokk63/so-gao-ruou-releases/releases/download/v3.8.5/So-Gao-Ruou-v3.8.5.apk",
+  "sha256": "c6061e555438922d53aef0364b3b1daf8d9b62616680d952846f44ac5fa79baa",
+  "notes": "Trung tâm đồng bộ và sao lưu tự động trên máy (7 ngày có bản sao). Khôi phục số dư chuyển kỳ; popup gọn và Dynamic Island liquid glass có hiệu ứng bung/thu."
 }
